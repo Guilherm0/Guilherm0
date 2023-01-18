@@ -1,4 +1,4 @@
-### Olá, eu sou o Guilhermo 👋
+## Olá, eu sou o Guilhermo 👋
 
 
 Um Cientista de dados com paixão por fornecer dados valiosos por meio de análises e métodos. Comprometido em ajudar as empresas a avançarem, ajudando-as a desenvolverem planos estratégicos com base em modelagem preditiva e descobertas. Apresentando experiência em análise de conjuntos de dados complexos e tendo potencial para ser um forte consultor.
