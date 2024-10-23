@@ -3,6 +3,10 @@
 
 Atualmente, atuo como gestor operacional, onde utilizo minha experiência prática para otimizar processos e resolver desafios. Agora, estou em transição para o campo da ciência de dados, com o objetivo de aplicar análises avançadas para transformar dados em insights estratégicos e entregar soluções mais inteligentes e orientadas por dados.
 
+Formação em Dados - Escola DNC (Técnico - completo)
+Ciência de Dados - EBAC (Técnico - em andamento)
+Ciência de Dados - Estácio de Sá (Superior - em andamento)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="guimo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="guimo-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
