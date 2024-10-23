@@ -1,7 +1,7 @@
 ## Olá, eu sou o Guilhermo 👋
 
 
-Um Cientista de dados com paixão por fornecer dados valiosos por meio de análises e métodos. Comprometido em ajudar as empresas a avançarem, ajudando-as a desenvolverem planos estratégicos com base em modelagem preditiva e descobertas. Apresentando experiência em análise de conjuntos de dados complexos e tendo potencial para ser um forte consultor.
+Atualmente, atuo como gestor operacional, onde utilizo minha experiência prática para otimizar processos e resolver desafios. Agora, estou em transição para o campo da ciência de dados, com o objetivo de aplicar análises avançadas para transformar dados em insights estratégicos e entregar soluções mais inteligentes e orientadas por dados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="guimo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
