@@ -1,7 +1,7 @@
 ## Olá, eu sou o Guilhermo 👋
 
 
-Atualmente, atuo como gestor operacional, onde utilizo minha experiência prática para otimizar processos e resolver desafios. Agora, estou em transição para o campo da ciência de dados, com o objetivo de aplicar análises avançadas para transformar dados em insights estratégicos e entregar soluções mais inteligentes e orientadas por dados.
+Atualmente, atuo como gestor operacional, onde utilizo minha experiência prática para otimizar processos e resolver desafios. Agora, estou em transição para o campo da ciência de dados, com o objetivo de unir minhas habilidades com dados e minha experiência de négocio para migrar de área.
 
 Formação em Dados - Escola DNC (Técnico - completo)<br>
 Ciência de Dados - EBAC (Técnico - em andamento)<br>
